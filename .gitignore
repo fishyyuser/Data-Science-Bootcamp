@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Folders
+00 Complete-Data-Science-With-Machine-Learning-And-NLP-2024/
+09 File Handling in python/protected.txt
+
 # Distribution / packaging
 .Python
 build/
