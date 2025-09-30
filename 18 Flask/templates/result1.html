@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+</head>
+<body>
+    <h1>Result</h1>
+    <h3>Based on your</h3>
+    {% for key,value in results.items() %}
+    <p><strong>
+        {{key}} : {{value}}
+    </strong></p>
+    {% endfor %}
+    <a href="/">Go Back</a>
+</body>
+</html>
