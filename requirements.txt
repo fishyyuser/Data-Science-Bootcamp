@@ -16,3 +16,4 @@ nbformat
 xgboost
 kneed
 nltk
+gensim
