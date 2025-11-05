@@ -17,3 +17,4 @@ xgboost
 kneed
 nltk
 gensim
+bs4
